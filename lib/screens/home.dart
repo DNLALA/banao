@@ -28,14 +28,14 @@ class _HomePageState extends State<HomePage> {
         actions: [
           IconButton(
             icon: const Icon(
-              Icons.settings,
+              Icons.chat,
               color: Colors.grey,
             ),
             onPressed: () {},
           ),
           IconButton(
             icon: const Icon(
-              Icons.settings,
+              Icons.notifications_none,
               color: Colors.grey,
             ),
             onPressed: () {},
